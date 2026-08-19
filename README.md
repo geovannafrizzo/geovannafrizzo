@@ -48,8 +48,8 @@
 ## 🎀 Minhas estatísticas no GitHub
 
 <div align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=geovannafrizzo&show_icons=true&theme=default&hide_border=true&title_color=E75480&icon_color=C9A0DC" width="48%" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/?user=geovannafrizzo&theme=default&hide_border=true&ring=E75480&fire=C9A0DC&currStreakLabel=E75480" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api?username=geovannafrizzo&show_icons=true&theme=default&hide_border=true&title_color=E75480&icon_color=C9A0DC" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=geovannafrizzo&theme=default&hide_border=true&ring=E75480&fire=C9A0DC&currStreakLabel=E75480" width="48%" />
 </div>
 
 <br/>
