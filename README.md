@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18&height=200&section=header&text=Oi,%20eu%20sou%20a%20Geovanna!&fontSize=38&fontColor=fff&fontAlignY=40&animation=fadeIn&fontFamily=Georgia" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD9,100:E75480&height=200&section=header&text=Oi,%20eu%20sou%20a%20Geovanna!&fontSize=38&fontColor=fff&fontAlignY=40&animation=fadeIn&fontFamily=Georgia" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=22&duration=3000&pause=800&color=E75480&center=true&vCenter=true&width=560&lines=Rela%C3%A7%C3%B5es+P%C3%BAblicas+%26+Marketing+Digital+%F0%9F%8C%B8;Explorando+tecnologia+por+curiosidade+%F0%9F%92%BB;Que+bom+te+ver+por+aqui+%F0%9F%92%95" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=22&duration=3000&pause=800&color=E75480&center=true&vCenter=true&width=560&lines=Rela%C3%A7%C3%B5es+P%C3%BAblicas+%26+Marketing+Digital+%F0%9F%8C%B8;Explorando+tecnologia+e+Canva+por+curiosidade+%F0%9F%92%BB;Que+bom+te+ver+por+aqui+%F0%9F%92%95" alt="Typing SVG" />
 
 <br/>
 
@@ -18,7 +18,7 @@
 - 🎓 Graduanda em **Relações Públicas** (PUC-Campinas, formatura em 2027)
 - 💼 Estagiária de Marketing Digital na **IKA**, atuando com campanhas, conteúdo e mídias sociais
 - 🎀 Fora do trabalho, sou apaixonada por comunicação, branding e storytelling
-- 💻 Aqui no GitHub, estou explorando programação por curiosidade, com projetos pequenos
+- 💻 Aqui no GitHub, estou explorando programação e ferramentas como **Canva** por curiosidade
 - 🌱 Aprendendo aos poucos, sem pressa pra ser expert
 - 🌎 Fluente em inglês, com intercâmbio acadêmico nos EUA
 
@@ -48,8 +48,8 @@
 ## 🎀 Minhas estatísticas no GitHub
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=geovannafrizzo&show_icons=true&theme=vue-dark&hide_border=true&title_color=E75480&icon_color=C9A0DC&text_color=6B4E71&bg_color=00000000" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=geovannafrizzo&theme=vue-dark&hide_border=true&background=00000000&ring=E75480&fire=C9A0DC&currStreakLabel=E75480" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=geovannafrizzo&show_icons=true&theme=default&hide_border=true&title_color=E75480&icon_color=C9A0DC" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=geovannafrizzo&theme=default&hide_border=true&ring=E75480&fire=C9A0DC&currStreakLabel=E75480" width="48%" />
 </div>
 
 <br/>
@@ -63,6 +63,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD9,100:E75480&height=100&section=footer" width="100%"/>
 
 </div>
